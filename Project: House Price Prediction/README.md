@@ -1,0 +1,2 @@
+# Project: House Price Prediction
+In this project, I'd like to predict house price with housing data for the city of Ames, Iowa, United States from 2006 to 2010 by using the linear regression model. The data were collected [here](https://www.tandfonline.com/doi/abs/10.1080/10691898.2011.11889627), and more information in data descriptions can be found [here](https://s3.amazonaws.com/dq-content/307/data_description.txt).
